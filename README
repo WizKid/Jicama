@@ -1,0 +1,1 @@
+A system for creating small binary patches for class-files and jar-files. Works in the same way as Google Courgette for exe-files by making an educated guess and then using bsdiff
