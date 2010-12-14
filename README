@@ -1,1 +1,3 @@
 A system for creating small binary patches for class-files and jar-files. Works in the same way as Google Courgette for exe-files by making an educated guess and then using bsdiff
+
+This system is just a prof of concept right now. It works really good on some diffs where using this system + bsdiff gives a patch which is just 26% of what the patch is if only using bsdiff. And there is still a lot of optimizations that can be done.
